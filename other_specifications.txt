@@ -1,0 +1,2 @@
+You need to add node_modules folder.
+And also add you cliendId for Spotify.
